@@ -10,8 +10,8 @@
        The only module which directly connects your Odoo with PowerBI. This is Direct Odoo Power BI Connector with Updated Features. Make Power BI Dashboard, Power BI Dashboards, Power BI report, Power BI Reports easily. Get automatic scheduled data refresh. Odoo to Power BI . With many advanced features like, publishing dashboard to Microsoft Teams or Publically, Automatically scheduled refresh / reload, gateway support, Get Prebuilt tables relationship. This is fast connector to link your data from odoo to Business Intelligence tool (Power BI Desktop). With ER diagram like features get relation / relations and relationship of your tables and get related column data. powerbi , business intelli. powerbi connector, odoo to powerbi connector , odoo powerbi connection, odoo power bi connection. Azure.
     """,
         
-    'maintainer': 'Odoo Tech',
-    'author': "Odoo Tech",
+    'maintainer': 'Micro Tech',
+    'author': "Micro Tech",
     'website': "https://bit.ly/3S55w4G",
 
     # Categories can be used to filter modules in modules listing
